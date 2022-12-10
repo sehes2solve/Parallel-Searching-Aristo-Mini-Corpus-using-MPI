@@ -1,0 +1,1 @@
+# Parallel-Searching-Aristo-Mini-Corpus-using-MPI
